@@ -1,5 +1,5 @@
 # Ex.05 Design a Website for Server Side Processing
-## Date:02.05.2025
+## Date:07.05.2025
 
 ## AIM:
  To design a website to calculate the power of a lamp filament in an incandescent bulb in the server side. 
@@ -150,7 +150,7 @@ urlpatterns = [
 
 
 ## SERVER SIDE PROCESSING:
-![alt text](<Screenshot 2025-05-02 183202.png>)
+![alt text](image.png)
 
 ## HOMEPAGE:
 ![alt text](<Screenshot 2025-05-02 183006.png>)
